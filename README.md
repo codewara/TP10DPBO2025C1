@@ -30,4 +30,4 @@ model/
 - Template terdapat pada folder view, yang berisi `header.php` untuk menampilkan title dan navbar pada laman web, dan `footer.php` yang menampilkan akhir dari laman web. keduanya ditampilkan pada setiap page web melalui `index.php`.
 
 # Dokumentasi
-
+https://github.com/user-attachments/assets/d0e94374-2a2a-4754-9d8d-928c7392c13c
